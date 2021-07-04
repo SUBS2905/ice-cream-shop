@@ -1,1 +1,1 @@
-An ice-cream shop built using HTML and CSS only
+An ice-cream shop website built using HTML and CSS only
